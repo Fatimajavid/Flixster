@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 Here's a walthrough of our implemented user stories.
 
-<img src="walthrough.gif" width=250><br>
+<img src="walkthrough.gif" width=250><br>
 
 ### Notes
 I learned how to create and use recyclerViews in Android Studio Code.
